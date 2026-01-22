@@ -1,0 +1,61 @@
+# =========================
+# Visual Studio (general)
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+
+# optional / local VS folder-view config
+CppProperties.json
+
+# =========================
+# Build outputs (C# + C/C++)
+# =========================
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/Win32/
+
+# =========================
+# C/C++ compiled artifacts
+# =========================
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+*.obj
+*.pch
+*.ipch
+*.tlog
+*.idb
+*.log
+*.cache
+*.tmp
+
+# =========================
+# NuGet / packages (optional)
+# =========================
+packages/
+
+# =========================
+# IDEs (optional)
+# =========================
+.idea/
+*.iml
+.vscode/
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
